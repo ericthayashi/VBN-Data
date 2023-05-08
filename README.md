@@ -12,3 +12,9 @@ Então estou disponibilizando os CSV's aqui para você baixar e utilizar estes d
 
 # Observações
 As informações levantadas foram extraídas do www.vlr.gg. Utilizando o PowerBI para a extração da tabela de dados e posteriormente tratados para a criação do dashboard. Ainda assim, pode ocorrer algum erro humano.
+
+# Updates Timeline
+
+## 2023-05-07
+
+Tive problemas com os arquivos CSV e precisei retirar eles daqui. Em breve volto a adicionar os arquivos aqui.
